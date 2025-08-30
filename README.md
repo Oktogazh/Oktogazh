@@ -1,6 +1,6 @@
 ## Demat deoc'h 👋
 
-- 🔭 I’m currently working on my mini-project for my Bangor University MSc in Language Technology: add the Welsh language to Language Tool.
+- 🔭 I’m currently working on my M.Sc. dissertation in Language Technology at Bangor University.
 
 <!--
 **Oktogazh/Oktogazh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
