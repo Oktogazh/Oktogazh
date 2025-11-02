@@ -2,17 +2,19 @@
 
 - 🤓 Initially a Celtic Languages nerd who turned into an NLP nerd.
 - 🧑‍🎓 Graduated in Language Technologies at Bangor University in 2025, so, officially a computational linguist, I guess.
-- 📚 My stack, by rough order of proficiency 📚 :
-    - 🏛️ Front-End Frameworks: Vue3 (+ Vuetify or Radix Vue), TS/JS, EJS, interested in: Svelte and React
+- 📚 My skills stack, by rough order of proficiency 📚 :
+    - 🏛️ Front-End Frameworks: Vue3 (+ Vuetify or Radix Vue), EJS, interested in: Svelte and React
     - 🎩 CSS Frameworks: Tailwind, Bootstrap
-    - 🏗️ Back-End: node (Express.js), Firebase, Django, Flask, Java (Spring), interested in Go or Ruby on Rails
+    - 🏗️ Back-End: node (Express.js), Firebase, Django, Astro, Flask, Java (Spring), interested in Go or Ruby on Rails
     - 📖 Data Bases: MongoDB (& MQL), SQL (PosgreSQL, MySQL), Redis, interested in graph and vector DBs
     - ✨ AI: Transformers, PyTorch, Keras, Scikit-learn, interest in BI and LangChain
-    - ✒️ Markup: HTML5 + CSS, MD, (La)Tex
+    - ✒️ Markup: HTML5 + CSS, MD, (La)Tex, wikitext
     - 🖆 OS: UNIX (Mac & Linux)
     - 🚏 DevOps: Git(Hub|Lab) Action, Docker, GCP, Ngnix, Traefik
+    - 🖥️ Programming languages: JS/TS, Python, Scheme (lisp), Java, bash interested in Golang and Rust
     - ♾️ meta skills: Regex, Functional and Object Oriented Programming
-    - Natural languages: Brezhoneg (C2), Français (C2), English (C1), Cymraeg (B2), Україньска (A2), Español (A2)
+    - 👅 Natural languages: Brezhoneg (C2), Français (C2), English (C1), Cymraeg (B2), Україньска (A2), Español (A2)
+    - 🤝 Soft skills: competitive, passionate, cooperative and curious
 - 🌱 I’m currently learning Java by solving Advent of Code puzzles and contributing to LanguageTools by adding support for Welsh.
 - If you work on something nice and need my help, let me know: alan dot kersaudy at gmail dot com
 
