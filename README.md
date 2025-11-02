@@ -11,6 +11,7 @@
     - ✒️ Markup: HTML5 + CSS, MD, (La)Tex
     - 🖆 OS: UNIX (Mac & Linux)
     - 🚏 DevOps: Git(Hub|Lab) Action, Docker, GCP, Ngnix, Traefik
+    - ♾️ meta skills: Regex, Functional and Object Oriented Programming
     - Natural languages: Brezhoneg (C2), Français (C2), English (C1), Cymraeg (B2), Україньска (A2), Español (A2)
 - 🌱 I’m currently learning Java by solving Advent of Code puzzles and contributing to LanguageTools by adding support for Welsh.
 - If you work on something nice and need my help, let me know: alan dot kersaudy at gmail dot com
