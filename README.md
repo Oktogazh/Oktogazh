@@ -1,7 +1,7 @@
 ## Demat deoc'h 👋
 
 - 🤓 Initially a Celtic Languages nerd who turned into an NLP nerd.
-- 🧑‍🎓 Graduated in Language Technology at Bangor University in 2025, so, officially a computational linguist, I guess.
+- 🧑‍🎓 Graduated in Language Technologies at Bangor University in 2025, so, officially a computational linguist, I guess.
 - 📚 My stack, by rough order of proficiency 📚 :
     - 🏛️ Front-End Frameworks: Vue3 (+ Vuetify or Radix Vue), TS/JS, EJS, interested in: Svelte and React
     - 🎩 CSS Frameworks: Tailwind, Bootstrap
