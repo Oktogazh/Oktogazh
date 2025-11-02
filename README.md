@@ -10,7 +10,7 @@
     - ✨ AI: Transformers, PyTorch, Keras, Scikit-learn, interest in BI and LangChain
     - ✒️ Markup: HTML5 + CSS, MD, (La)Tex, wikitext
     - 🖆 OS: UNIX (Mac & Linux)
-    - 🚏 DevOps: Git(Hub|Lab) Action, Docker, GCP, Ngnix, Traefik
+    - 🚏 DevOps & infras: Git(Hub|Lab) Actions, Docker, GCP, Ngnix, Traefik
     - 🖥️ Programming languages: JS/TS, Python, Scheme (lisp), Java, bash interested in Golang and Rust
     - ♾️ meta skills: Regex, Functional and Object Oriented Programming
     - 👅 Natural languages: Brezhoneg (C2), Français (C2), English (C1), Cymraeg (B2), Україньска (A2), Español (A2)
