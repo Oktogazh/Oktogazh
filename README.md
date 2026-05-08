@@ -16,7 +16,7 @@
     - 👅 Natural languages: Brezhoneg (C2), Français (C2), English (C1), Cymraeg (B2), Україньска (A2), Español (A2)
     - 🤝 Soft skills: competitive, passionate, cooperative and curious
 - 🌱 I’m currently learning Java by solving Advent of Code puzzles and contributing to LanguageTools by adding support for Welsh.
-- If you work on something nice and need my help, let me know: alan dot kersaudy at gmail dot com
+- If you work on something nice and need my help, let me know: alan dot kersaudy at proton dot me
 
 <!--
 **Oktogazh/Oktogazh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
